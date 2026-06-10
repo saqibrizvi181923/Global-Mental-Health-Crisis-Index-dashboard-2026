@@ -2,6 +2,10 @@
 Interactive Power BI dashboard analyzing global mental health indicators including depression, anxiety, suicide rates, treatment gaps, mental health spending, and crisis index across countries
 # Global Mental Health Crisis Dashboard
 
+## Dashboard Overview
+
+Global MH Crisis - Dashboard.png
+
 ## Overview
 This project presents an interactive Power BI dashboard that analyzes global mental health indicators across countries.
 
