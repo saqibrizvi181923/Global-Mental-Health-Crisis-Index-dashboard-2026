@@ -3,7 +3,7 @@ Interactive Power BI dashboard analyzing global mental health indicators includi
 # Global Mental Health Crisis Dashboard
 
 ## Dashboard Overview
-![Dashboard Overview](Images/Global MH Crisis - Dashboard.png)
+![Dashboard Overview](Mhdashboard.png)
 
 
 ## Overview
